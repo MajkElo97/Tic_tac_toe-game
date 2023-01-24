@@ -1,7 +1,7 @@
 import numpy as np
 from random import choice, randint
 
-
+#### V2 ####
 def computer_choice():
     marked = False
     while not marked:
@@ -62,8 +62,7 @@ while game_is_on:
         print("This place is occupied, try another!")
 
 
-#### version 1 ####
-
+#### V1 ####
 # def computer_choice():
 #     marked = False
 #     while not marked:
