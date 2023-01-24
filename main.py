@@ -31,8 +31,7 @@ def print_board():
 ---------
 {signs[1, 0]} | {signs[1, 1]} | {signs[1, 2]}
 ---------
-{signs[2, 0]} | {signs[2, 1]} | {signs[2, 2]}
----------"""
+{signs[2, 0]} | {signs[2, 1]} | {signs[2, 2]}"""
     print(board)
 
 
